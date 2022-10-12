@@ -17,11 +17,7 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 
 **Effacez ce code avant de passer à la suite.**
 
-```css
-* {
-  color: red;
-}
-```
+
 
 ### Résultat attendu pour l'exercice 1
 
