@@ -12,6 +12,19 @@ p {
 
 img {
 
-    border: 4px;
+    border: 20px;
 
+}
+
+.contenu-mixte {
+
+    text-align: center;
+
+}
+
+.contenu-texte {
+
+    font-family: Arial;
+    font-size: 18px;
+    
 }
